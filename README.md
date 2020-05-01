@@ -28,8 +28,8 @@ python -m getrpimodel [--s]
 ```python:
 import getrpimodel
 
-print (getrpimodel.model())
-print (getrpimodel.model_strict())
+print(getrpimodel.model())
+print(getrpimodel.model_strict())
 ```
 
 ## C++ version.
